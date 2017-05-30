@@ -1,2 +1,2 @@
 # ytguesser
-YouTube-based guessing game (hello)
+YouTube-based guessing game
